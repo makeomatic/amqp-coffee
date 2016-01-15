@@ -3,3 +3,9 @@ node_modules
 /coverage.html
 /coverage/
 npm-debug.log
+/src
+/test
+/examples
+*.yml
+*.xml
+/scripts
